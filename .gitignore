@@ -3,6 +3,7 @@ electron_app/
 whatsapp_sender/
 license_server/
 license_cli.py
+newnew/
 __pycache__/
 *.py[cod]
 *.egg-info/
