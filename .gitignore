@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+node_modules/
+electron_app/dist/
+electron_app/release/
+electron_app/node_modules/
+*.db
+*.log
+license.json
+newnew/
+whatsapp_sender/sessions/
+whatsapp_sender/media/
